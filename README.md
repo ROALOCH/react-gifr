@@ -20,4 +20,4 @@ Demo del proyecto accesible en [Heroku](https://roaloch-gifr.herokuapp.com/).
 
 ## Licencia
 
-[MIT](https://github.com/ROALOCH/react-gifr/blob/main/LICENSE)
+[MIT](https://github.com/ROALOCH/react-gifr/blob/main/LICENSE.md)

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AddCategory/> Debe mostrar el componente correctamente 1`] = `
+<form
+  className="form-group"
+  onSubmit={[Function]}
+>
+  <p />
+  <label
+    for="gifSearch"
+  >
+    Ingresa tu búsqueda
+  </label>
+  <input
+    className="form-control"
+    id="gifSearch"
+    onChange={[Function]}
+    placeholder="Ingresa lo que quieres buscar"
+    type="text"
+    value=""
+  />
+</form>
+`;
