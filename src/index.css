@@ -1,0 +1,17 @@
+.card-custom {
+	align-content: center;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	width: 18rem;
+}
+
+.card-grid {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 20px;
+}
+
+.gif-title {
+	text-transform: capitalize;
+}
